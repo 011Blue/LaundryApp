@@ -1,6 +1,6 @@
 # the_laundry_app
 
-A new Flutter project.
+Creating an app for a Laundry business Using flutter framework and dart programming language.
 
 ## Getting Started
 
